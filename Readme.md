@@ -44,7 +44,7 @@ https://binaryify.github.io/NeteaseCloudMusicApi/
 
 展示图：
 
-![屏幕快照 2019-03-17 12.14.56 PM](images/屏幕快照 2019-03-17 12.14.56 PM.png)
+(images/屏幕快照 2019-03-17 12.14.56 PM.png)
 
 ![屏幕快照 2019-03-17 12.10.07 PM](images/屏幕快照 2019-03-17 12.10.07 PM.png)
 
