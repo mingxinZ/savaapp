@@ -1,0 +1,29 @@
+export const SET_SINGER = 'SET_SINGER'
+
+export const SET_PLAYING = 'SET_PLAYING'
+
+export const SET_FULLSCREEN = 'SET_FULLSCREEN'
+
+export const SET_PLAYLIST = 'SET_PLAYLIST'
+
+export const SET_SEQUENCELIST = 'SET_SEQUENCELIST'
+
+export const SET_MODE = 'SET_MODE'
+
+export const SET_CURRENTINDEX = 'SET_CURRENTINDEX'
+
+export const SET_SINGERLIST = 'SET_SINGERLIST'
+
+export const SET_MAGAZINECAT = 'SET_MAGAZINECAT'
+
+export const SET_MAGAZINEID = 'SET_MAGAZINEID'
+
+export const SET_ALBUMID = 'SET_ALBUMID'
+
+export const SET_CURRENTUSERNAME = 'SET_CURRENTUSERNAME'
+
+export const SET_AVATARBASEURL = 'SET_AVATARBASEURL'
+
+export const SET_TEXT = 'SET_TEXT'
+
+export const SET_KEYWORD = 'SET_KEYWORD'
