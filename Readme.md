@@ -43,7 +43,7 @@ https://binaryify.github.io/NeteaseCloudMusicApi/
 
 
 展示图：
-https://github.com/mingxinZ/savaapp/blob/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-17%2012.14.56%20PM.png
+https://github.com/mingxinZ/savaapp/raw/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-17%2012.14.56%20PM.png
 
 ![屏幕快照 2019-03-17 12.10.07 PM](images/屏幕快照 2019-03-17 12.10.07 PM.png)
 
